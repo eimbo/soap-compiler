@@ -4,9 +4,7 @@ Compiles a tiny BASIC language called Soap into C code.
 
 
 ## Run
-* `python soap.py <input file>`
-or 
-* run the build.sh to compile Soap then compile the C output file with gcc
+compile soap with `python soap.py <input file>` and use gcc to compile the C output ogir run build.sh
 
 
 
