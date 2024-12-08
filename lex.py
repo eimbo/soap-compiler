@@ -1,7 +1,7 @@
 import sys
 import enum
 
-# Lexer object keeps track of current position in the source code and produces each token.
+## Lexer object keeps track of current position in the source code and produces each token.
 class Lexer:
     def __init__(self, source):
         self.source = source + '\n' # Source code to lex as a string. Append a newline to simplify lexing/parsing the last token/statement.
