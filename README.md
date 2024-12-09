@@ -1,12 +1,9 @@
-# Compiler for Soap
+# BASIC Language Compiler
 
-Compiles a tiny BASIC language called Soap into C code.
+Compiles a tiny BASIC language to C code.
 
 
 ## Run
-compile soap with `python soap.py <input file>` and use gcc to compile the C output ogir run build.sh
+compile with `python soap.py <input file>` and use gcc to compile the C output or run build.sh
 
 
-
-## Resources
-* [teeny tiny compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
